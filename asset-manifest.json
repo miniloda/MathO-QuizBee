@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/miniloda/MathO-QuizBee/static/css/main.6eb54ffc.css",
+    "main.js": "/miniloda/MathO-QuizBee/static/js/main.a9c35ad4.js",
+    "static/js/787.df215083.chunk.js": "/miniloda/MathO-QuizBee/static/js/787.df215083.chunk.js",
+    "static/media/fa-solid-900.ttf": "/miniloda/MathO-QuizBee/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/miniloda/MathO-QuizBee/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/miniloda/MathO-QuizBee/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/miniloda/MathO-QuizBee/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/miniloda/MathO-QuizBee/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/Logo.jpg": "/miniloda/MathO-QuizBee/static/media/Logo.9ccb2e22ce851e571c85.jpg",
+    "static/media/fa-regular-400.woff2": "/miniloda/MathO-QuizBee/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/miniloda/MathO-QuizBee/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/miniloda/MathO-QuizBee/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/miniloda/MathO-QuizBee/index.html",
+    "main.6eb54ffc.css.map": "/miniloda/MathO-QuizBee/static/css/main.6eb54ffc.css.map",
+    "main.a9c35ad4.js.map": "/miniloda/MathO-QuizBee/static/js/main.a9c35ad4.js.map",
+    "787.df215083.chunk.js.map": "/miniloda/MathO-QuizBee/static/js/787.df215083.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb54ffc.css",
+    "static/js/main.a9c35ad4.js"
+  ]
+}
