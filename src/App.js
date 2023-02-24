@@ -1,13 +1,15 @@
-
+import Main from './Components/Main';
+import Header from './Components/Header';
 import './App.css';
 
 export default function App() {
   return (
-    <div className = "flex justify-center w-full">
-      <h1 className="text-3xl font-bold underline ">
-      Hello world!
-    </h1>
+    <div className = "w-full " id = "Main">
+      <Header />
+      <Main />
     </div>
+    
+    
     
   )
 }
