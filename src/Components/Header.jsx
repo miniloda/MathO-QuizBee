@@ -11,15 +11,17 @@ import {
   MDBIcon
 } from 'mdb-react-ui-kit';
 import Logo from '../assets/Logo.jpg';
+import {Link} from 'react-router-dom'
+
 export default function Header(){
     //Add fixed navbar on header
     const [showNav, setShowNav] = useState(false);
     return(
-        
-    <div className='container mt-3'>
+    <div className = "container">
+<div className='container mt-3'>
     <MDBNavbar expand='lg' light bgColor='light' className = "rounded-lg">
       <MDBContainer fluid>
-        <MDBNavbarBrand href='#'><img src = {Logo} alt = "Logo" id = "Logo"/></MDBNavbarBrand>
+        <MDBNavbarBrand href='/'><img src = {Logo} alt = "Logo" id = "Logo"/></MDBNavbarBrand>
         <MDBNavbarToggler
           type='button'
           aria-expanded='false'
@@ -31,15 +33,15 @@ export default function Header(){
         <MDBCollapse navbar show={showNav}>
           <MDBNavbarNav>
             <MDBNavbarItem>
-              <MDBNavbarLink aria-current='page' href='#'>
+              <MDBNavbarLink aria-current='page' href='/reg-guide'>
                 Rules and Regulation
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#'>Registration Guidelines</MDBNavbarLink>
+              <MDBNavbarLink href='/reg-guide'>Registration Guidelines</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='#'>Health Protocol</MDBNavbarLink>
+              <MDBNavbarLink href='/health-protocol'>Health Protocol</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
               <MDBNavbarLink href='#' >
@@ -50,6 +52,8 @@ export default function Header(){
         </MDBCollapse>
       </MDBContainer>
     </MDBNavbar>
+    </div>
+    
     </div>
   );
 }
