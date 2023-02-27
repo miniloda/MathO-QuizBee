@@ -16,7 +16,7 @@ export default function Header(){
     const [showNav, setShowNav] = useState(false);
     return(
         
-
+    <div className='container mt-3'>
     <MDBNavbar expand='lg' light bgColor='light' className = "rounded-lg">
       <MDBContainer fluid>
         <MDBNavbarBrand href='#'><img src = {Logo} alt = "Logo" id = "Logo"/></MDBNavbarBrand>
@@ -50,6 +50,7 @@ export default function Header(){
         </MDBCollapse>
       </MDBContainer>
     </MDBNavbar>
+    </div>
   );
 }
     
