@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MathO-QuizBee/static/css/main.daaa08e6.css",
-    "main.js": "/MathO-QuizBee/static/js/main.54da02ab.js",
+    "main.js": "/MathO-QuizBee/static/js/main.d954221a.js",
     "static/js/787.df215083.chunk.js": "/MathO-QuizBee/static/js/787.df215083.chunk.js",
     "static/media/fa-solid-900.ttf": "/MathO-QuizBee/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/fa-brands-400.ttf": "/MathO-QuizBee/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.woff2": "/MathO-QuizBee/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/MathO-QuizBee/index.html",
     "main.daaa08e6.css.map": "/MathO-QuizBee/static/css/main.daaa08e6.css.map",
-    "main.54da02ab.js.map": "/MathO-QuizBee/static/js/main.54da02ab.js.map",
+    "main.d954221a.js.map": "/MathO-QuizBee/static/js/main.d954221a.js.map",
     "787.df215083.chunk.js.map": "/MathO-QuizBee/static/js/787.df215083.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.daaa08e6.css",
-    "static/js/main.54da02ab.js"
+    "static/js/main.d954221a.js"
   ]
 }
