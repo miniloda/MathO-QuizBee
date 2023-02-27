@@ -31,7 +31,7 @@ export default function Header(){
         <MDBCollapse navbar show={showNav}>
           <MDBNavbarNav>
             <MDBNavbarItem>
-              <MDBNavbarLink active aria-current='page' href='#'>
+              <MDBNavbarLink aria-current='page' href='#'>
                 Rules and Regulation
               </MDBNavbarLink>
             </MDBNavbarItem>

@@ -1,5 +1,5 @@
 import Logo from '../../assets/Logo.jpg';
-
+import {Link} from 'react-router-dom'
 export default function Hero() {
   return(
     <div className = "container w-full mt-3">
@@ -16,10 +16,20 @@ export default function Hero() {
             </div>
         {/*Add a register now button}*/}
         <div className = "container items-center justify-center w-full lg:flex" >
-        <button className="px-8 py-2 text-lg font-bold text-white bg-green-500 rounded-lg shadow-lg hover:bg-green-600 hover:cursor-pointer">Register Now</button>
+        <Register/>
         </div>
     </div> 
     </div>
 )
+}
+
+const Register = () => {
+  return (
+    <div>
+    <a href='https://docs.google.com/forms/d/e/1FAIpQLSeGLFShd2diKJjbixDAX2aX0z4P8UjcW9pebydUehRXjx_MpQ/viewform?pli=1&fbclid=IwAR1yCPY9mvC5sfdmo3gq3kW3s7fGK69S4-tH9MXeFl8igloZM55CIiIs41o'>
+    <button type="button" className="px-8 py-2 text-lg font-bold text-white bg-green-500 rounded-lg shadow-lg hover:bg-green-600 hover:cursor-pointer" target= '_blank'  rel="noopener noreferrer">Register Now</button>
+    </a>
+    </div>
+  );
 }
 
