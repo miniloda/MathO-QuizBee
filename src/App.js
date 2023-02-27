@@ -10,9 +10,9 @@ export default function App() {
       <Header />
       <div className = "container w-full">
         <Routes>
-          <Route path = "/" element = {<Main />} />
-          <Route path = "/health-protocol" element = {<HealthProtocol />} />
-          <Route path = "/reg-guide" element = {<RegGuide />} />
+          <Route path = "/MathO-QuizBee/" element = {<Main />} />
+          <Route path = "/MathO-QuizBee/health-protocol" element = {<HealthProtocol />} />
+          <Route path = "/MathO-QuizBee/reg-guide" element = {<RegGuide />} />
         </Routes>
       </div>
     </div>

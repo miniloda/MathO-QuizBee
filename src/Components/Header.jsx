@@ -21,7 +21,7 @@ export default function Header(){
 <div className='container mt-3'>
     <MDBNavbar expand='lg' light bgColor='light' className = "rounded-lg">
       <MDBContainer fluid>
-        <MDBNavbarBrand href='MathO-QuizBee/'><img src = {Logo} alt = "Logo" id = "Logo"/></MDBNavbarBrand>
+        <MDBNavbarBrand href='/MathO-QuizBee/'><img src = {Logo} alt = "Logo" id = "Logo"/></MDBNavbarBrand>
         <MDBNavbarToggler
           type='button'
           aria-expanded='false'
@@ -33,18 +33,18 @@ export default function Header(){
         <MDBCollapse navbar show={showNav}>
           <MDBNavbarNav>
             <MDBNavbarItem>
-              <MDBNavbarLink aria-current='page' href='MathO-QuizBee/reg-guide'>
+              <MDBNavbarLink aria-current='page' href='/MathO-QuizBee/reg-guide'>
                 Rules and Regulation
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='MathO-QuizBee/reg-guide'>Registration Guidelines</MDBNavbarLink>
+              <MDBNavbarLink href='/MathO-QuizBee/reg-guide'>Registration Guidelines</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='MathO-QuizBee/health-protocol'>Health Protocol</MDBNavbarLink>
+              <MDBNavbarLink href='/MathO-QuizBee/health-protocol'>Health Protocol</MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='MathO-QuizBee/health-protocol' >
+              <MDBNavbarLink href='/MathO-QuizBee/health-protocol' >
                 Emergency Plan
               </MDBNavbarLink>
             </MDBNavbarItem>

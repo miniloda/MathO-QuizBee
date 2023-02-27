@@ -65,7 +65,7 @@ export default function RegGuide (){
                     </div>
                 </div>
             </div>
-            <div>
+            <div className = "text-white">
                 <h1>Registration Guidelines</h1>
                 <div className="container">
                     <h2>Requirements</h2>
