@@ -44,7 +44,7 @@ export default function HealthProtocol (){
                 </div>
             </div>
             {/* Emergency Plan */}
-            <div>
+            <div id = "Emergency">
                 <div >
                     <h1 className="text-white">Emergency Plan</h1>
                     <h2 className="text-white">In the case of an emergency, contact the following concerned offices:</h2>

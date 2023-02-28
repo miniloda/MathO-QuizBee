@@ -46,7 +46,7 @@ export default function Header(){
             </MDBNavbarItem>
             <MDBNavbarItem>
               <MDBNavbarLink >
-              <Link to = '/MathO-QuizBee/health-protocol'>Emergency Plan</Link>
+              <Link to = '/MathO-QuizBee/health-protocol/#Emergency'>Emergency Plan</Link>
               </MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
