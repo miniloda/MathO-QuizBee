@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MathO-QuizBee/static/css/main.7d0740a2.css",
-    "main.js": "/MathO-QuizBee/static/js/main.d7f1a530.js",
+    "main.css": "/MathO-QuizBee/static/css/main.abc4c1a8.css",
+    "main.js": "/MathO-QuizBee/static/js/main.492bbfb1.js",
     "static/js/787.df215083.chunk.js": "/MathO-QuizBee/static/js/787.df215083.chunk.js",
     "static/media/fa-solid-900.ttf": "/MathO-QuizBee/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/fa-brands-400.ttf": "/MathO-QuizBee/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
@@ -21,12 +21,12 @@
     "static/media/fa-v4compatibility.woff2": "/MathO-QuizBee/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "static/media/inter-vietnamese-400-normal.woff2": "/MathO-QuizBee/static/media/inter-vietnamese-400-normal.789afb71d327988e2fc8.woff2",
     "index.html": "/MathO-QuizBee/index.html",
-    "main.7d0740a2.css.map": "/MathO-QuizBee/static/css/main.7d0740a2.css.map",
-    "main.d7f1a530.js.map": "/MathO-QuizBee/static/js/main.d7f1a530.js.map",
+    "main.abc4c1a8.css.map": "/MathO-QuizBee/static/css/main.abc4c1a8.css.map",
+    "main.492bbfb1.js.map": "/MathO-QuizBee/static/js/main.492bbfb1.js.map",
     "787.df215083.chunk.js.map": "/MathO-QuizBee/static/js/787.df215083.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d0740a2.css",
-    "static/js/main.d7f1a530.js"
+    "static/css/main.abc4c1a8.css",
+    "static/js/main.492bbfb1.js"
   ]
 }
