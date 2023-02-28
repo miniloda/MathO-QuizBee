@@ -8,10 +8,10 @@ export default function Hero() {
         <div className="relative">
           <div className = "container flex items-center justify-center w-full" >
             <img src = {Logo} alt = "Logo" className = "w-32 h-auto rounded-full"/>
-            <h1 className="lg:text-3xl text-2xl font-bold text-black drop-shadow-[35px_35px_rgba(80, 183, 84, 1)] italic">UPV MATHEMATICS CIRCLE NATIONWIDE INTER-SCHOOL QUIZ BEE 2023</h1>
+            <h1 className="lg:text-3xl text-4xl font-bold text-black drop-shadow-[35px_35px_rgba(80, 183, 84, 1)] italic">UPV MATHEMATICS CIRCLE NATIONWIDE INTER-SCHOOL QUIZ BEE 2023</h1>
             </div>
         
-            <p className="mt-4 text-lg text-black">The University of the Philippines Visayas Mathematics Circle (UPVMC) Quiz Bee is an annual student-run math competition for high school students held at the UPV Campus in Iloilo City. The Quiz Bee aims to encourage interest in math by providing students from all across the country an oppurtunity to work on fun and challenging problems and to meet other students interest in math.</p>
+            <p className="mt-4 text-2xl text-black">The University of the Philippines Visayas Mathematics Circle (UPVMC) Quiz Bee is an annual student-run math competition for high school students held at the UPV Campus in Iloilo City. The Quiz Bee aims to encourage interest in math by providing students from all across the country an oppurtunity to work on fun and challenging problems and to meet other students interest in math.</p>
         
             </div>
         {/*Add a register now button}*/}

@@ -33,8 +33,9 @@ export default function Header(){
         <MDBCollapse navbar show={showNav}>
           <MDBNavbarNav>
             <MDBNavbarItem>
-              <MDBNavbarLink aria-current='page' href='/MathO-QuizBee/reg-guide'>
-                Rules and Regulation
+              <MDBNavbarLink >
+                <Link to = '/MathO-QuizBee/reg-guide'>Rules and Regulation</Link>
+                
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>

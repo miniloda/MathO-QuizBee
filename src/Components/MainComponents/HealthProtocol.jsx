@@ -2,12 +2,12 @@
 
 export default function HealthProtocol (){
     return(
-        <div className = "container w-full mt-3" id="Health">
+        <div className = "container w-full mt-3 text-xl" id="Health">
             <div>
                 <h1 className="text-white">Health Protocol</h1>
                 <p className="text-white">To help us safely and reduce the risk of COVID-19 transmission and other transmittance diseases, participants, orgranizers, judges, faculty, and staff should follow the following protocols:</p>
                 <div>
-                    <div className = "container mx-3 text-xl">
+                    <div className = "container mx-3 ">
                         <div>
                         <h2 className="text-white">Before the event:</h2>
                         <ul>

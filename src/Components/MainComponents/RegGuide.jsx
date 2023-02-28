@@ -1,9 +1,10 @@
 export default function RegGuide (){
     return(
         <>
-        <div className = "container w-full mt-3" id = "Rules">
+        <div className = "container w-full mt-3 text-xl" id = "Rules">
             <div className="text-white">
                 <h1 className="text-3xl font-bold text-center">Rules and Regulations</h1>
+                <div className="mt-4 mb-4">
                 <p className = "text-xl">
                     The INTER-SCHOOL MATHEMATICS QUIZ BEE (ELEMENTARY, JUNIOR HIGH SCHOOL AND SENIOR HIGH SCHOOL LEVELS) is a contest among high high schools nationwide invited by the UPV Mathematics Circle.
                 </p>
@@ -21,6 +22,8 @@ export default function RegGuide (){
                     </ul></p>
                 <p className="text-xl">The contest is open to all Elementary, Junior High School and Senior High School students from schools all over Region VI. Only two (2) students with a coach are allowed to represent each school in the Individual Category. Only one (1) team composed of three (3) students and one coach is allowed to represent each school in the Team Category. Participants in the Individual Category are allowed to join in the Team Category and vice versa.</p>
             </div>
+                </div>
+            
             <div className="text-white">
                 <h2 >Individual Category</h2>
                 <p>Contestants with their advisers/coaches are expected to be at the venue of the contest at 7:00 AM for registration. Students and coaches are required to bring their official school IDs.</p>
