@@ -39,14 +39,14 @@ export default function Header(){
               </MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='/MathO-QuizBee/reg-guide'>Registration Guidelines</MDBNavbarLink>
+              <MDBNavbarLink ><Link to = '/MathO-QuizBee/reg-guide'>Registration Guidelines</Link></MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='/MathO-QuizBee/health-protocol'>Health Protocol</MDBNavbarLink>
+              <MDBNavbarLink ><Link to = '/MathO-QuizBee/health-protocol'>Health Protocol</Link></MDBNavbarLink>
             </MDBNavbarItem>
             <MDBNavbarItem>
-              <MDBNavbarLink href='/MathO-QuizBee/health-protocol' >
-                Emergency Plan
+              <MDBNavbarLink >
+              <Link to = '/MathO-QuizBee/health-protocol'>Emergency Plan</Link>
               </MDBNavbarLink>
             </MDBNavbarItem>
           </MDBNavbarNav>
