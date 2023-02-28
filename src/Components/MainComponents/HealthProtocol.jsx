@@ -7,7 +7,8 @@ export default function HealthProtocol (){
                 <h1 className="text-white">Health Protocol</h1>
                 <p className="text-white">To help us safely and reduce the risk of COVID-19 transmission and other transmittance diseases, participants, orgranizers, judges, faculty, and staff should follow the following protocols:</p>
                 <div>
-                    <div>
+                    <div className = "container mx-3 text-xl">
+                        <div>
                         <h2 className="text-white">Before the event:</h2>
                         <ul>
                             <li className="text-white list-disc">Disinfect chairs and tables and other materials that will be used for the competition.</li>
@@ -39,6 +40,7 @@ export default function HealthProtocol (){
                             
                         </ul>
                     </div>
+                </div>
                 </div>
             </div>
             {/* Emergency Plan */}

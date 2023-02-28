@@ -11,8 +11,8 @@ export default function App() {
       <div className = "container w-full">
         <Routes>
           <Route path = "/MathO-QuizBee/" element = {<Main />} />
-          <Route path = "/MathO-QuizBee/health-protocol" element = {<HealthProtocol />} />
-          <Route path = "/MathO-QuizBee/reg-guide" element = {<RegGuide />} />
+          <Route path = "/MathO-QuizBee/health-protocol/" element = {<HealthProtocol />} />
+          <Route path = "/MathO-QuizBee/reg-guide/" element = {<RegGuide />} />
         </Routes>
       </div>
     </div>
